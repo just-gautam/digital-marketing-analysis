@@ -9,6 +9,8 @@ Python · SQLite · Pandas · Matplotlib
 Synthetic Digital Marketing Performance Dataset (30,000 rows)
 Platforms: Meta, Google Search, TikTok, Snapchat, LinkedIn, Google Display
 
+📄 See [README_DATASET.md](README_DATASET.md) for full data generation notes and caveats.
+
 ## 🔍 Analysis Performed
 1. Revenue by Platform
 2. CTR by Placement
