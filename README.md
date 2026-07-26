@@ -1,7 +1,6 @@
 # 📊 Digital Marketing Performance Analysis
 
 **Author:** Gautam Bhardwaj
-**GitHub:** https://github.com/just-gautam
 
 ## 🛠 Tools Used
 Python · SQLite · Pandas · Matplotlib
