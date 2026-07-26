@@ -29,3 +29,19 @@ Platforms: Meta, Google Search, TikTok, Snapchat, LinkedIn, Google Display
 ## 🚀 How to Run
 pip install pandas matplotlib
 Open Digital_Marketing_Analysis.ipynb in VS Code or Jupyter
+
+## 📊 Looker Studio Dashboard
+
+Live, filterable dashboard built on top of the cleaned dataset.
+
+🔗 **[View Live Dashboard](https://datastudio.google.com/s/uab391qgCRU)**
+📄 [Download PDF snapshot](assets/Digital_Marketing_Performance_Dashboard.pdf)
+
+**Filters:** Platform, Placement, Country, Date range
+
+**KPI Cards:** Total Revenue · Avg CPM · ROI
+
+**Charts:**
+- Revenue trend by platform (time series)
+- Platform (publisher) comparison — Google Search leads with ~$10.3M
+- Placement (format) breakdown — Stories and In-Feed drive the largest share of impressions
